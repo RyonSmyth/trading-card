@@ -1,0 +1,33 @@
+.catFact {
+	font-style: italic;
+}
+
+li span {
+	font-weight: bold;
+}
+
+li {
+	list-style: none;
+}
+
+.content {
+	border: 1px solid black;
+	margin: 0 25%;
+	width: 50%;
+
+}
+
+.catInfo {
+	border: 1px solid black;
+	margin: 10px;
+
+
+}
+img {
+	padding: 10px;
+}
+
+h3 {
+	padding: 10px;
+}
+
