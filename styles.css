@@ -1,33 +1,32 @@
-.catFact {
+.cat-fact {
 	font-style: italic;
 }
 
-li span {
+.fact-label {
 	font-weight: bold;
 }
 
-li {
+.facts-list-item {
 	list-style: none;
 }
 
 .content {
 	border: 1px solid black;
-	margin: 0 25%;
-	width: 50%;
+	margin: 0 auto;
+	width: 320px;
 
 }
 
-.catInfo {
+.cat-info {
 	border: 1px solid black;
 	margin: 10px;
-
-
 }
-img {
+
+.card-image {
 	padding: 10px;
 }
 
-h3 {
+.card-title {
 	padding: 10px;
 }
 
